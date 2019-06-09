@@ -1,0 +1,32 @@
+
+.contenedor{
+    position: relative;    
+}
+.img{
+   position: absolute;
+   display: inline-block;
+    margin: 0px;
+    float:left;
+}
+input{
+    cursor: pointer;    
+    float:left;
+    margin-left: 410px;
+    margin-right: 205px;
+    margin-top: 280px;
+    position: relative;    
+}
+#adelante, #atras{
+    font-size: 26px;
+    font-weight:normal;    
+    border-bottom-color: transparent;
+    color:black;
+    background-color: transparent;
+}
+#imagen{    
+    width: 700px; 
+    height: 370px;
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 400px;
+}
